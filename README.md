@@ -31,7 +31,6 @@ this is null because i assigned a empty value to it.
 
 
 #### 5) Explain the concept of Scope in JavaScript (Global, Function, Block).
-
-    `Scope` is the area where a variable is defined and can be accessed.
-    `Global scope` is a area where a vaiable defined outside of any funcion or scop and can accessed from anywhere in the code. `Function scope` is a area where veriable can definded and only access inside the function. `Block scope` is a area where variable can defined and only access inside the block of code like if statement.
+`Scope` is the area where a variable is defined and can be accessed.
+`Global scope` is a area where a vaiable defined outside of any funcion or scop and can accessed from anywhere in the code. `Function scope` is a area where veriable can definded and only access inside the function. `Block scope` is a area where variable can defined and only access inside the block of code like if statement.
     
